@@ -2,6 +2,15 @@ name: Contexts
 on: push
 
 jobs:
+  function:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dump
+        run: |
+          echo ${{ contains( 'hello', 'll' ) }}
+          echo ${{ startsWith( 'hello', 'he') }}
+          echo ${{ endsWith( 'hello', 'lo' )}}
+          echo ${{ format('Hello {0} {1} {2}', 'World', '!', '!') }}
   one:
     runs-on: ubuntu-latest
     steps:
@@ -29,4 +38,3 @@ jobs:
         env:
           MATRIX_CONTEXT: ${{ toJson(matrix) }}
         run: echo "$MATRIX_CONTEXT"
-
