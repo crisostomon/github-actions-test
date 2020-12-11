@@ -33,7 +33,6 @@ The role descriptions and capability types are described in the RulesOfTheRoad [
 - Workflow consultation with GitHub [(#206)](https://github.com/Flutter-Global/product-shared-codebase/issues/206)
   - Including a [workflow report](https://github.com/Flutter-Global/RulesOfTheRoad/blob/master/github/workflow-consultation/report.md) from GitHub
 
----------------------
 
 <h1 align="center">Upcoming</h1>
 
@@ -46,13 +45,10 @@ The role descriptions and capability types are described in the RulesOfTheRoad [
   - Setting permissions for service accounts and admin accounts [(#180)](https://github.com/Flutter-Global/product-shared-codebase/issues/180)  
   - All work related to the governor, the rule-checks and codebases.json is tagged with the `codebase-structure` label on our board [(link)](https://github.com/Flutter-Global/product-shared-codebase/projects/1?card_filter_query=label%3Acodebase-structure)
 
-## Thank you.
- - We are available on the `#shared-codebase` slack channel, in your local slack instance.
- - Ask in the channel or DM us directly.
- - The team:
-   - Colm O'Reilly
-   - Tiago Guerra
-   - Phil Boynton
-   - JP O'Neill
-   - Arine Malheiro
-   - Nuno Crisostomo
+
+--------------------
+
+<p align="center">You can join us on Slack (<a href="https://betfair.slack.com/archives/C0115SW13V5" alt="Join us on Slack!">#shared-codebase</a>)!</p>
+<p align="center"><strong>The team:</strong> Colm O'Reilly, Tiago Guerra, Phil Boynton, JP O'Neill, Arine Malheiro and Nuno Crisóstomo</p>
+
+--------------------
