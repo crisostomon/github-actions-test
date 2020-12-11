@@ -2,6 +2,8 @@
 <p align="center"><strong>#002</strong> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <strong>December, 2020</strong>
 </p>
 
+<p>&nbsp;</p>
+
 <h1 align="center">Recent Updates</h1>
 
 ## Automation
@@ -46,7 +48,9 @@ The role descriptions and capability types are described in the RulesOfTheRoad [
   - All work related to the governor, the rule-checks and codebases.json is tagged with the `codebase-structure` label on our board [(link)](https://github.com/Flutter-Global/product-shared-codebase/projects/1?card_filter_query=label%3Acodebase-structure)
 
 
-<p align="center">![](flutter_sd_newsletter_sep.png)</p>
+![](flutter_sd_newsletter_sep.png)
+
 <p align="center">You can join us on Slack (<a href="https://betfair.slack.com/archives/C0115SW13V5" alt="Join us on Slack!">#shared-codebase</a>)!</p>
 <p align="center"><strong>The team:</strong> Colm O'Reilly, Tiago Guerra, Phil Boynton, JP O'Neill, Arine Malheiro and Nuno Crisóstomo</p>
-<p align="center">![](flutter_sd_newsletter_sep.png)</p>
+
+![](flutter_sd_newsletter_sep.png)
