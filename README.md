@@ -35,6 +35,7 @@ The role descriptions and capability types are described in the RulesOfTheRoad [
 - Workflow consultation with GitHub [(#206)](https://github.com/Flutter-Global/product-shared-codebase/issues/206)
   - Including a [workflow report](https://github.com/Flutter-Global/RulesOfTheRoad/blob/master/github/workflow-consultation/report.md) from GitHub
 
+<p>&nbsp;</p>
 
 <h1 align="center">Upcoming</h1>
 
@@ -47,6 +48,7 @@ The role descriptions and capability types are described in the RulesOfTheRoad [
   - Setting permissions for service accounts and admin accounts [(#180)](https://github.com/Flutter-Global/product-shared-codebase/issues/180)  
   - All work related to the governor, the rule-checks and codebases.json is tagged with the `codebase-structure` label on our board [(link)](https://github.com/Flutter-Global/product-shared-codebase/projects/1?card_filter_query=label%3Acodebase-structure)
 
+<p>&nbsp;</p>
 
 ![](flutter_sd_newsletter_sep.png)
 
